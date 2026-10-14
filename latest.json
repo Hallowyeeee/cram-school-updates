@@ -1,0 +1,6 @@
+{
+  "version": "0.5.1",
+  "url": "app-0.5.1.bundle.gz",
+  "sha256": "8697d20752d97b5eaf56fc49ec4b0a20c66d38b663fb1f0c29338722527c433f",
+  "notes": "改用 GitHub 倉庫檔案做更新來源"
+}
