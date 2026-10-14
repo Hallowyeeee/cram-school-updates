@@ -1,6 +1,6 @@
 {
-  "version": "0.5.2",
-  "url": "app-0.5.2.bundle.gz",
-  "sha256": "c5bb62da75530591bb6ab1a2870295004e6174eae6310495fd3809a8ac96ed58",
-  "notes": "修正左下角版本號顯示"
+  "version": "0.6.0",
+  "url": "app-0.6.0.bundle.gz",
+  "sha256": "3943102cfc3aad697a53b14c0a5bbcb10aac07aba28235048a02115733a26352",
+  "notes": "新增「連線設定」：一台當主機，其他電腦連進來共用資料"
 }
