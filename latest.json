@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "url": "app-0.6.0.bundle.gz",
-  "sha256": "3943102cfc3aad697a53b14c0a5bbcb10aac07aba28235048a02115733a26352",
-  "notes": "新增「連線設定」：一台當主機，其他電腦連進來共用資料"
+  "version": "0.6.1",
+  "url": "app-0.6.1.bundle.gz",
+  "sha256": "b6aa713ca00e146d0a72a157dd156f7f83130ab159a24460a2b9efd72579eedf",
+  "notes": "排課：老師改成彈出小窗、科目只有數學／英文／理化、學生分組改成拖曳"
 }
