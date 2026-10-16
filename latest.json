@@ -1,6 +1,6 @@
 {
-  "version": "0.7.2",
-  "url": "app-0.7.2.bundle.gz",
-  "sha256": "689c474545e2f7cb5b4923bcf4415a8115e72e6b69bdfef95077c744b6fd2b7c",
-  "notes": "家教班（排課）新預設時段與緩衝區、加入測試資料、修正跳出小視窗後打不了字"
+  "version": "0.7.3",
+  "url": "app-0.7.3.bundle.gz",
+  "sha256": "9a45adb9e6dc162d156a1dfe0cbe200a85defeabb4e330a16b3fcc8fc32fd936",
+  "notes": "家教班課表改成時間軸、薪資模板、訂餐便當店名片、新增才藝班"
 }
