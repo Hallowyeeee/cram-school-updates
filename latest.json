@@ -1,6 +1,6 @@
 {
-  "version": "0.7.4",
-  "url": "app-0.7.4.bundle.gz",
-  "sha256": "cf7fb517a6dcc06690bef8950e2cef7cb1846511afe57d7769a27f9d3ec77fbf",
-  "notes": "家教班老師顏色與同一欄排列、學年分段排課、手機版（掃 QR code）、薪資計算變快"
+  "version": "0.7.5",
+  "url": "app-0.7.5.bundle.gz",
+  "sha256": "d5c8f816baab610e288fe51b26607c6261fd934b4860f7aa3a7ed3520871d06e",
+  "notes": "收費改成先繳費才上課、收費管理頁重新整理、週課表整年一份、測試資料模式"
 }
