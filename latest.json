@@ -1,6 +1,6 @@
 {
-  "version": "0.7.14",
-  "url": "app-0.7.14.bundle.gz",
-  "sha256": "e5c4108b93b32b4052408a86aa81cdc4bea9a7bd0493db3837206a62196bb049",
-  "notes": "訂餐可以合吃便當、總計列出各價格便當數；更新按鈕改成黃色三角錐，畫面風格移到槌子按鈕"
+  "version": "0.7.15",
+  "url": "app-0.7.15.bundle.gz",
+  "sha256": "9eb0d458edd65ebfb9f99dfee9a8eb9a7c13c784cab12dc1f0810604438081ae",
+  "notes": "點名頁可只看一天；字體大小可調；訂餐修正畫面變白"
 }
