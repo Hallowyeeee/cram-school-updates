@@ -1,6 +1,6 @@
 {
-  "version": "0.7.15",
-  "url": "app-0.7.15.bundle.gz",
-  "sha256": "9eb0d458edd65ebfb9f99dfee9a8eb9a7c13c784cab12dc1f0810604438081ae",
-  "notes": "點名頁可只看一天；字體大小可調；訂餐修正畫面變白"
+  "version": "0.7.16",
+  "url": "app-0.7.16.bundle.gz",
+  "sha256": "0f6f04e748520d854202630abfe4922cb88188ca1775fe33881ff6a577fc735e",
+  "notes": "外網連線；按 X 縮到右下角；自動檢查更新；改成安裝版"
 }
