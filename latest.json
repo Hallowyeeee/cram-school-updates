@@ -1,6 +1,6 @@
 {
-  "version": "0.7.16",
-  "url": "app-0.7.16.bundle.gz",
-  "sha256": "0f6f04e748520d854202630abfe4922cb88188ca1775fe33881ff6a577fc735e",
-  "notes": "外網連線；按 X 縮到右下角；自動檢查更新；改成安裝版"
+  "version": "0.7.17",
+  "url": "app-0.7.17.bundle.gz",
+  "sha256": "107ba9a80f6866cc3a71cd47b159e6bd97cde87ac297977a2f7b4765dcae0b9d",
+  "notes": "新增數學速練"
 }
