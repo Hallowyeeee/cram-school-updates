@@ -1,6 +1,6 @@
 {
-  "version": "0.7.24",
-  "url": "app-0.7.24.bundle.gz",
-  "sha256": "c5ba86e83dcb3891616cf0dd137585e1a1669388c4d24c1802dd7bc66d3e1ae9",
-  "notes": "角色名稱、暗夜玫瑰套裝、紙娃娃新身體"
+  "version": "0.7.25",
+  "url": "app-0.7.25.bundle.gz",
+  "sha256": "2d24f7cefbb88db35cf1342bd5a053f43e95b0aeb2370ff8fe408308afd74471",
+  "notes": "戰力排行榜、修正手機紙娃娃錯位"
 }
