@@ -1,6 +1,6 @@
 {
-  "version": "0.7.28",
-  "url": "app-0.7.28.bundle.gz",
-  "sha256": "f8ace0df2cb88b0f12a3f98c8b6d7b53d0b227c4b82d7050b89c9b41057da022",
-  "notes": "新增仙途對戰模式（預設關閉）、合成畫面改善、修正更新後畫面還是舊版"
+  "version": "0.7.29",
+  "url": "app-0.7.29.bundle.gz",
+  "sha256": "1555ba226ee9fd6f6de225ac11cbcda15f7e72baa71a3679de189df4819e8c14",
+  "notes": "仙途 10 等就能玩、配裝畫面重做；聖誕裝備只在 12 月掉落、可設定限定掉落期間"
 }
