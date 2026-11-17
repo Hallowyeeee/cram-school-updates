@@ -1,6 +1,6 @@
 {
-  "version": "0.7.27",
-  "url": "app-0.7.27.bundle.gz",
-  "sha256": "9e94b305a34de7633bb7c7d1ff27501373ed73fc841434ad07a0ff8b4a9b70be",
-  "notes": "聖誕套裝、白執事套裝、史詩裝備、強化重做、裝備品質"
+  "version": "0.7.28",
+  "url": "app-0.7.28.bundle.gz",
+  "sha256": "f8ace0df2cb88b0f12a3f98c8b6d7b53d0b227c4b82d7050b89c9b41057da022",
+  "notes": "新增仙途對戰模式（預設關閉）、合成畫面改善、修正更新後畫面還是舊版"
 }
