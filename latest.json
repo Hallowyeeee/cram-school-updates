@@ -1,6 +1,6 @@
 {
-  "version": "0.7.31",
-  "url": "app-0.7.31.bundle.gz",
-  "sha256": "4737c9add42e014d49a8ad5ce77fa7d9656ef8c8df231b48625fd388557298c2",
-  "notes": "同一次段考可以再叫一隻魔王、修正新段考魔王不出現；仙途招式調整"
+  "version": "0.7.32",
+  "url": "app-0.7.32.bundle.gz",
+  "sha256": "2b26cdfa13d14100609f1bd49de76e3cfaa0b8d605afd40493bb7ab9cb110218",
+  "notes": "仙途戰報改成一回合一回合的文字紀錄"
 }
