@@ -1,6 +1,6 @@
 {
-  "version": "0.7.37",
-  "url": "app-0.7.37.bundle.gz",
-  "sha256": "0a4a7fec4f65c4ec5cb82dfb6f77d7594aca8cb56fd4596144390cfb45df94f1",
-  "notes": "仙途新增 27 招功法"
+  "version": "0.7.38",
+  "url": "app-0.7.38.bundle.gz",
+  "sha256": "bed4e069b0d3a0e21992f04222db3955d4fe79505f65ed13d2684482cb746b8d",
+  "notes": "仙途戰報新增全場統計"
 }
