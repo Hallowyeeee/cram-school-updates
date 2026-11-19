@@ -1,6 +1,6 @@
 {
-  "version": "0.7.34",
-  "url": "app-0.7.34.bundle.gz",
-  "sha256": "f71dffed9eb0e09293e9cdc68a783ae068d2b3b085a5266a082bca3cd9214f2f",
-  "notes": "手機版畫面改成像 App；仙途美術改版與數值調整"
+  "version": "0.7.35",
+  "url": "app-0.7.35.bundle.gz",
+  "sha256": "594df4be57948090bbb00ebe34c565a4032eebd3ddeb45fd3700ad22dce4f3a3",
+  "notes": "仙途逆天改命：基礎屬性隨機，每天可重抽 3 次"
 }
