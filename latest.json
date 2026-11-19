@@ -1,6 +1,6 @@
 {
-  "version": "0.7.33",
-  "url": "app-0.7.33.bundle.gz",
-  "sha256": "309754968b1d50027ec8415f65e3caf913112232240d0aa66a37f7a91d751207",
-  "notes": "仙途公共房間、戰後統計、老師也能一起打、技能與搭配分頁、拿掉對戰動畫"
+  "version": "0.7.34",
+  "url": "app-0.7.34.bundle.gz",
+  "sha256": "f71dffed9eb0e09293e9cdc68a783ae068d2b3b085a5266a082bca3cd9214f2f",
+  "notes": "手機版畫面改成像 App；仙途美術改版與數值調整"
 }
