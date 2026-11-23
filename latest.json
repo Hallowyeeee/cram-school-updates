@@ -1,6 +1,6 @@
 {
-  "version": "0.7.40",
-  "url": "app-0.7.40.bundle.gz",
-  "sha256": "31b0be70b1ced487dd7464bdecb170d136a421b9e162da954739eacb8bf1e026",
-  "notes": "修正武鬥場房間卡住；英文練習本期競賽可選多課、排行榜跟數學速練換期"
+  "version": "0.7.41",
+  "url": "app-0.7.41.bundle.gz",
+  "sha256": "fb56ab5898a052f154564136f20fdbe5571cdebbbd5b26c2dcc91cc631a3ca19",
+  "notes": "年級照上學順序排；數學速練、英文練習排行榜改版"
 }
