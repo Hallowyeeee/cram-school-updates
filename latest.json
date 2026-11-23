@@ -1,6 +1,6 @@
 {
-  "version": "0.7.38",
-  "url": "app-0.7.38.bundle.gz",
-  "sha256": "bed4e069b0d3a0e21992f04222db3955d4fe79505f65ed13d2684482cb746b8d",
-  "notes": "仙途戰報新增全場統計"
+  "version": "0.7.39",
+  "url": "app-0.7.39.bundle.gz",
+  "sha256": "7133667d018ad4a00abe2c0d3f3e638e6e90038a1cf87f2757dc6617b724e55c",
+  "notes": "仙途新增無雙塔、法修招式調整"
 }
