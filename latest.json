@@ -1,6 +1,6 @@
 {
-  "version": "0.7.39",
-  "url": "app-0.7.39.bundle.gz",
-  "sha256": "7133667d018ad4a00abe2c0d3f3e638e6e90038a1cf87f2757dc6617b724e55c",
-  "notes": "仙途新增無雙塔、法修招式調整"
+  "version": "0.7.40",
+  "url": "app-0.7.40.bundle.gz",
+  "sha256": "31b0be70b1ced487dd7464bdecb170d136a421b9e162da954739eacb8bf1e026",
+  "notes": "修正武鬥場房間卡住；英文練習本期競賽可選多課、排行榜跟數學速練換期"
 }
