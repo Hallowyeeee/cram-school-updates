@@ -1,6 +1,6 @@
 {
-  "version": "0.7.44",
-  "url": "app-0.7.44.bundle.gz",
-  "sha256": "8953735a2396c1c1f75b0998dc7340dbd727ab366831fcf51da846e343a674f0",
-  "notes": "小勇者養成換上修仙風背景圖"
+  "version": "0.7.45",
+  "url": "app-0.7.45.bundle.gz",
+  "sha256": "9188e6f488337eee6eb3abb881df8abbf9e49b163716b6f0f3f88b503859f760",
+  "notes": "小勇者畫面細修（名次邊框、悟道閣、半透明）"
 }
