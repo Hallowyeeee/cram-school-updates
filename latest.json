@@ -1,6 +1,6 @@
 {
-  "version": "0.7.45",
-  "url": "app-0.7.45.bundle.gz",
-  "sha256": "9188e6f488337eee6eb3abb881df8abbf9e49b163716b6f0f3f88b503859f760",
-  "notes": "小勇者畫面細修（名次邊框、悟道閣、半透明）"
+  "version": "0.7.46",
+  "url": "app-0.7.46.bundle.gz",
+  "sha256": "af364ed61005f6ca5367e9118068b2d41daa157c539469dd1881c2eef09edeb0",
+  "notes": "收費改成逐項開始收；跟班生扣堂修正；小勇者不再於 12/1 清空；段考預測新算法"
 }
